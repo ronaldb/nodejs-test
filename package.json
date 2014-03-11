@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-test",
+  "version": "0.0.0",
+  "description": "Sample app for nodejs on heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronaldb/nodejs-test.git"
+  },
+  "keywords": [
+    "example",
+    "heroku",
+    "nodejs"
+  ],
+  "author": "Ronald Bruintjes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldb/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/ronaldb/nodejs-test",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.5.0"
+  }
+}
